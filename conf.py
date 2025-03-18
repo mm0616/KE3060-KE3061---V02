@@ -27,7 +27,7 @@ html_theme = "sphinx_book_theme"
 #html_static_path = ['_static']
 
 html_theme_options = {
-    "repository_url": "https://github.com/546456456456",
+    "repository_url": "https://github.com/mm0616/KE3060-KE3061---V02",
     "use_repository_button": True,
 }
 
