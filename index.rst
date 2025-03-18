@@ -13,8 +13,9 @@ documentation for details.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:KE3060 (KE3061) 中文--V02
+   :caption: Contents:KE3060(KE3061) Keyes 4自由度机械手臂Microbit学习套装
 
 
-   docs/
+
+   docs/产品介绍
 
