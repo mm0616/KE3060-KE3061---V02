@@ -31,6 +31,10 @@ html_theme_options = {
     "use_repository_button": True,
 }
 
+html_logo = "path/to/myimage.png"
+
+html_title = "My site title"
+
 
 
 
